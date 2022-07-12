@@ -1,8 +1,8 @@
-name: KotlinPluginTemplate
+name: SpigotRandomJoinMessages
 main: org.simplemc.plugintemplate.KotlinPluginTemplate
 version: "${version}"
 api-version: "${apiVersion}"
 website: https://github.com/SimpleMC/mc-kotlin-plugin-template
-author: tajobe
+author: gungniir
 libraries:
   - org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}
